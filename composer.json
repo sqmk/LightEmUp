@@ -1,5 +1,6 @@
 {
 	"require": {
-		"sqmk/Phue": "dev-master"
+		"sqmk/Phue": "dev-master",
+		"sqmk/Stern": "dev-master"
 	}
 }
