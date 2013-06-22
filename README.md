@@ -1,6 +1,6 @@
-# Light 'Em Up - Call of Duty: Modern Warfare
+# Light 'Em Up
 
-Manage Philips Hue lights based on Call of Duty 4: Modern Warfare multiplayer log activity.
+Change Philips Hue light state on multiplayer gaming server events.
 
 ## Introduction
 
